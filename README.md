@@ -1,3 +1,3 @@
 SolSozluk.org
 ===
-Backend project of SolSozluk.org
+Frontend project of SolSozluk.org
